@@ -75,7 +75,7 @@ streamlit run app.py
 
 📌 Then open your browser to interact with the app locally.
 
-## 🔹 Key Learnings
+🔹 Key Learnings
 
 Preprocessing text using TF‑IDF vectorization
 
@@ -85,7 +85,7 @@ Building interactive web apps using Streamlit
 
 Deploying a machine learning app online (free)
 
-## 🔹 Future Improvements
+🔹 Future Improvements
 
 ✔ Add support for longer paragraphs
 
