@@ -88,6 +88,9 @@ Deploying a machine learning app online (free)
 🔹 Future Improvements
 
 ✔ Add support for longer paragraphs
+
 ✔ Integrate advanced transformer models (e.g., BERT)
+
 ✔ Add multi‑language sentiment options
+
 ✔ Enhance UI with icons and sentiment colors
