@@ -62,6 +62,7 @@ Sentiment-Analysis-App/
 ```bash
 git clone https://github.com/prema-123456/Sentiment-Analysis-App.git
 cd Sentiment-Analysis-App
+
 2️⃣ Install dependencies
 
 pip install -r requirements.txt
