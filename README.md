@@ -63,7 +63,7 @@ Sentiment-Analysis-App/
 git clone https://github.com/prema-123456/Sentiment-Analysis-App.git
 cd Sentiment-Analysis-App
 
-2️⃣ Install dependencies
+2️⃣ **Install dependencies**
 
 pip install -r requirements.txt
 
@@ -75,7 +75,7 @@ streamlit run app.py
 
 📌 Then open your browser to interact with the app locally.
 
-🔹 Key Learnings
+## 🔹 Key Learnings
 
 Preprocessing text using TF‑IDF vectorization
 
@@ -85,7 +85,7 @@ Building interactive web apps using Streamlit
 
 Deploying a machine learning app online (free)
 
-🔹 Future Improvements
+## 🔹 Future Improvements
 
 ✔ Add support for longer paragraphs
 
